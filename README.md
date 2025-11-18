@@ -84,7 +84,11 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
 ## :wave: Connect with me
 💬 Let’s talk about **data, analytics, and AI**!  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahandazizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-  &nbsp;&nbsp;
-  <a href="mailto:azizisahand@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/sahandazizi/">
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
+      alt="LinkedIn"
+      width="60"
+    >
+  </a>
 </p>
