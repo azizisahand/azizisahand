@@ -70,6 +70,11 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
   - *Created a web app with a Streamlit UI to perform CRUD operations on a cloud-hosted SQL database.*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+### Hackathon
+- **[Waterway Travel Project](https://github.com/azizisahand/European-waterway-travel-with-EU-Space-Innovation)**
+  - *We visualize congestion and environmental sensitivity in real-time, rewarding eco-efficient navigation with Civic Credits.*
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Sentinel Hub](https://img.shields.io/badge/Sentinel_Hub-90C128?style=for-the-badge&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![ipyleaflet](https://img.shields.io/badge/ipyleaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) ![Rasterio](https://img.shields.io/badge/Rasterio-4D2A4E?style=for-the-badge&logoColor=white) 
+
 <details>
   <summary><h3>Other Projects & Explorations</h3></summary>
   
