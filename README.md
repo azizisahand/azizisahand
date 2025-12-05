@@ -31,6 +31,10 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
 ## 👨‍💻 My Projects
 
 ### Data Science / Machine Learning
+- **[Germany Market Scout](https://github.com/Zehando/Kaggle-Housing-Price-Competition-Regression)**
+  - *Retrieval-Augmented Generation (RAG) tool that helps you find the best deals in German supermarket brochures (Prospekte).*
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-11111F?style=for-the-badge&logo=llama&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LlamaParse](https://img.shields.io/badge/LlamaParse-060606?style=for-the-badge&logo=json&logoColor=white)
+
 - **[Housing Price Prediction](https://github.com/Zehando/Kaggle-Housing-Price-Competition-Regression)**
   - *Predicting housing prices.*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
