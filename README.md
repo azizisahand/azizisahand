@@ -26,7 +26,6 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
 ![LlamaParse](https://img.shields.io/badge/LlamaParse-060606?style=for-the-badge&logo=json&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
 
 
 
