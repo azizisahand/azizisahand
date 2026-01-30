@@ -33,6 +33,12 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
 
 ## 👨‍💻 My Projects
 
+### 1 Year-long Data Science and AI course Final Project
+- **[Solar Panel Planner](https://github.com/Cebulva/rooftop-solar-analysis-ml-pvlib)**
+  - *Solar Planner using Computer Vision and pvlib to detect rooftops from satellite imagery and calculate the precise financial payoff based on historic solar data.*
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-11111F?style=for-the-badge&logo=llama&logoColor=white)
+
+
 ### Data Science / Machine Learning
 - **[Germany Market Scout](https://github.com/azizisahand/germany-grocery-scout)**
   - *Retrieval-Augmented Generation (RAG) tool that helps you find the best deals in German supermarket brochures (Prospekte).*
