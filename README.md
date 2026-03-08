@@ -44,42 +44,42 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
   - *Retrieval-Augmented Generation (RAG) tool that helps you find the best deals in German supermarket brochures (Prospekte).*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-11111F?style=for-the-badge&logo=llama&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LlamaParse](https://img.shields.io/badge/LlamaParse-060606?style=for-the-badge&logo=json&logoColor=white)
 
-- **[Housing Price Prediction](https://github.com/Zehando/Kaggle-Housing-Price-Competition-Regression)**
+- **[Housing Price Prediction](https://github.com/azizisahand/Kaggle-Housing-Price-Competition-Regression)**
   - *Predicting housing prices.*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- **[Mushroom Classification](https://github.com/Zehando/Edible-Mushroom-Classification)**
+- **[Mushroom Classification](https://github.com/azizisahand/Edible-Mushroom-Classification)**
   - *Predicting if a Mushroom is edible or poisonous with stacking model.*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
  
-- **[Time Series Analysis](https://github.com/Zehando/Time-Series-Analysis)**
+- **[Time Series Analysis](https://github.com/azizisahand/Time-Series-Analysis)**
   - *My Journey Through a Time Series Maze: Forecasting London's Air Quality*
   - ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-336791?style=for-the-badge&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-0077B6?style=for-the-badge&logoColor=white)
 
 
 ### Data Analytics
-- **[Business Expanding Analysis](https://github.com/Zehando/Business-expanding-analysis)**
+- **[Business Expanding Analysis](https://github.com/azizisahand/Business-expanding-analysis)**
   - *Analyzed market data using SQL and Tableau to identify and recommend a new country for business expansion.*
   - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-- **[Pricing Strategy and Discount Impact](https://github.com/Zehando/eniac-pricing-strategy-analysis)**
+- **[Pricing Strategy and Discount Impact](https://github.com/azizisahand/eniac-pricing-strategy-analysis)**
   - *Investigated historical sales data to measure the impact of various discount strategies on revenue.*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-- **[A/B Testing for Pricing Models](https://github.com/Zehando/Eniac-AB-Test-Analysis)**
+- **[A/B Testing for Pricing Models](https://github.com/azizisahand/Eniac-AB-Test-Analysis)**
   - *Performed statistical analysis on an A/B test to determine the homepage button variant with the highest click-through rate (CTR).*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-85D6F1?style=for-the-badge&logo=scipy&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-- **[Interactive Business KPI Dashboard](https://github.com/Zehando/business-kpi-dashboards)**
+- **[Interactive Business KPI Dashboard](https://github.com/azizisahand/business-kpi-dashboards)**
   - *Developed a comprehensive dashboard in Looker Studio with BigQuery to track and visualize key business metrics.*
   - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 ### Data Engineering & Apps
-- **[End-to-End Azure Data Pipeline](https://github.com/Zehando/dp900-azure-etl-project)**
+- **[End-to-End Azure Data Pipeline](https://github.com/azizisahand/dp900-azure-etl-project)**
   - *Built an ETL pipeline in Azure to process raw data, train a simple ML model, and store the results.*
   - ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- **[Small Library Database App](https://github.com/Zehando/small-library)**
+- **[Small Library Database App](https://github.com/azizisahand/small-library)**
   - *Created a web app with a Streamlit UI to perform CRUD operations on a cloud-hosted SQL database.*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
@@ -91,9 +91,9 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
 <details>
   <summary><h3>Other Projects & Explorations</h3></summary>
   
-  - **[Hangman Game in Python](https://github.com/Zehando/Python-Hangman)**
-- **[Unnecessary Correlation Analysis](https://github.com/Zehando/CheeseAndDeathByBedsheets)**
-- **[Ode to Overthinking](https://github.com/Zehando/ode-to-my-overthinking)**
+  - **[Hangman Game in Python](https://github.com/azizisahand/Python-Hangman)**
+- **[Unnecessary Correlation Analysis](https://github.com/azizisahand/CheeseAndDeathByBedsheets)**
+- **[Ode to Overthinking](https://github.com/azizisahand/ode-to-my-overthinking)**
 
 </details>
 
