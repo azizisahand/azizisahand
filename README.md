@@ -102,6 +102,7 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
 
 ## :wave: Connect with me
 💬 Let’s talk about **data, analytics, and AI**!  
+🗓 **[Book an online meeting with me.](https://calendly.com/azizisahand/30min)**
 <p align="center">
   <a href="https://www.linkedin.com/in/sahandazizi/">
     <img 
