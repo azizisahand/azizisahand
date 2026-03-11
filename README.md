@@ -40,6 +40,10 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
 
 
 ### Data Science / Machine Learning
+- **[Time Series Analysis](https://github.com/azizisahand/Time-Series-Analysis)**
+  - *My Journey Through a Time Series Maze: Forecasting London's Air Quality*
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-336791?style=for-the-badge&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-0077B6?style=for-the-badge&logoColor=white)
+    
 - **[Germany Market Scout](https://github.com/azizisahand/germany-grocery-scout)**
   - *Retrieval-Augmented Generation (RAG) tool that helps you find the best deals in German supermarket brochures (Prospekte).*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-11111F?style=for-the-badge&logo=llama&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LlamaParse](https://img.shields.io/badge/LlamaParse-060606?style=for-the-badge&logo=json&logoColor=white)
@@ -52,9 +56,6 @@ Currently enrolled in a **1-year Data Science & AI program** at WBS Coding Schoo
   - *Predicting if a Mushroom is edible or poisonous with stacking model.*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
  
-- **[Time Series Analysis](https://github.com/azizisahand/Time-Series-Analysis)**
-  - *My Journey Through a Time Series Maze: Forecasting London's Air Quality*
-  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-336791?style=for-the-badge&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-0077B6?style=for-the-badge&logoColor=white)
 
 
 ### Data Analytics
